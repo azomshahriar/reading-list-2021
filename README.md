@@ -1,8 +1,7 @@
 # Reading-list-2021
 
 Books
-  - Cracking the coding interview
-  - System design interview
+  - System design 
   - System Design primer(https://github.com/donnemartin/system-design-prime)
   - Design Data Incentive Appliation
 
